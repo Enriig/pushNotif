@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "pushNotification",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
